@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// create a variable named 'number'
-// our variable is equal to 1
-// 
+// variable defined as number. the numerical value of number is 1
+// number++ adds 1 to the variable number
+// if number is greater than or equal to 2 the console will log yes
 //we console log yes
 
 //CODE
@@ -46,9 +46,9 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // variable defined as name, the string value of name is Dane
-// 
-// 
-// we console log no
+// if name equals 'Mary' then the console will log 'Hi Mary' 
+// if name is not 'Mary' it will log 'how do you do?'
+// we console log 'how do you do?'
 
 //CODE
 /*
@@ -70,10 +70,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// variable defined as secret, no value assigned
+// variable defined as code, numerical value of 123 assigned to code
+// if code equals 123, string value of 'super' assigned to secret and numerical value of (code * 2) assigned to code
+// if code is greater than 250, then variable secret will have string value of 'duper'
+// we console log 'super'
 
 //CODE
 /*
