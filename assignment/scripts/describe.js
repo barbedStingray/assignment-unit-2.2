@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
+// create a variable named 'number'
+// our variable is equal to 1
 // 
-// 
-// 
-//
+//we console log yes
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
+// variable defined as name, the string value of name is Dane
 // 
 // 
-// 
-//
+// we console log no
 
 //CODE
 /*
