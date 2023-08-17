@@ -135,9 +135,20 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
-if (mix === true) {
+if (mix = true) {
   colorOne = 'purple';
 }
+
+NEW CODE
+let colorOne = 'blue';
+let colorTwo = 'red';
+let mix = true;
+
+if (mix === true) {
+  colorOne = 'purple'
+  colorTwo = 'purple'
+}
+
 */
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
@@ -151,6 +162,15 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+
+NEW CODE
+let temp = 40;
+let time = 4;
+
+if (temp > 39 && time >= 4) {
+  console.log('throw away the food!');
+}
+
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
@@ -166,5 +186,16 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
+
+NEW CODE
+let age = 21;
+let minAge = 21;
+
+if (minAge >= age){
+  console.log('no entry');
+} else {
+  console.log('enter');
+}
+
 */
 
